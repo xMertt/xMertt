@@ -3,7 +3,7 @@
 - ✍️ &High school student in istanbul.
 - 🤔 &nbsp; Discord Bot Developer
 - 🌱 &nbsp; My hobbies are ui design and coding
-- &![](https://komarev.com/ghpvc/?username=xMertt)
+- & ![](https://komarev.com/ghpvc/?username=xMertt)
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
