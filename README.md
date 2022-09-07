@@ -1,19 +1,20 @@
+# Hi there , I'm Yafes
+
+- & ![](https://komarev.com/ghpvc/?username=xMertt)
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
+<a href="https://instagram.com/ariscikmis"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ✍️ &High school student in istanbul.
 - 🤔 &nbsp; Discord Bot Developer
 - 🌱 &nbsp; My hobbies are ui design and coding
-- & ![](https://komarev.com/ghpvc/?username=xMertt)
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Langauges I Know
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
