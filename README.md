@@ -1,6 +1,6 @@
 # Hi there , I'm Yafes
 
-- & ![](https://komarev.com/ghpvc/?username=xMertt)
+![](https://komarev.com/ghpvc/?username=xMertt)
 [![GitHub xMertt](https://img.shields.io/github/followers/xMertt?label=follow&style=social)](https://github.com/xMertt)&nbsp;
 <a href="https://instagram.com/merttozcu0"><img src="https://img.shields.io/badge/@merttozcu0-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
