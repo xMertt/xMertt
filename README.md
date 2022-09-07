@@ -1,4 +1,4 @@
-# Hi there , I'm Yafes
+# Hi there, I'm Yafes
 
 ![](https://komarev.com/ghpvc/?username=xMertt)
 [![GitHub xMertt](https://img.shields.io/github/followers/xMertt?label=follow&style=social)](https://github.com/xMertt)&nbsp;
