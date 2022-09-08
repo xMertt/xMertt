@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✍️ &High school student in istanbul.
+- ✍️ &nbsp; High school student in istanbul.
 - 🤔 &nbsp; Discord Bot Developer
 - 🌱 &nbsp; My hobbies are ui design and coding
 
